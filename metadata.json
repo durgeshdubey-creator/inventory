@@ -1,0 +1,5 @@
+{
+  "name": "InfraScan AI",
+  "description": "An intelligent server inventory management dashboard that simulates SSH extraction and uses Gemini to parse unstructured server logs into structured hardware data.",
+  "requestFramePermissions": []
+}
